@@ -6,7 +6,6 @@ Relative search frequency data is from Google Trends via [pytrends](https://gith
 # Rationale & Approach
 I thought of this project when I discovered Google Trends while studying for the GRE. While powerful and useful, Google Trends only provides the relative search frequency for any given keyword (relative to itself, or other keywords it is being compared to). This means that if you are doing market research for say a new product idea such as "dog sweaters", you can only see how search patterns have changed, not the number of people who have actually been searching. I noticed that I had been searching for the GRE relatively often, and thought that given the number of people who took the GRE and the relative search frequency for "GRE" against "dog sweaters", you could get a rough estimate of how many people are searching for "dog sweaters":
 
-People Interested in Dog Sweaters  = ?  
 
 People Interested in the GRE = Annual Test Takers = [574,677](https://www.ets.org/s/gre/pdf/snapshot_test_taker_data_2016.pdf)  
 
@@ -14,6 +13,8 @@ Google Trends Relative Interest ("GRE") = 75
 
 Google Trends Relative Interest ("dog sweaters") =  3  
 
+  
+  
 
 (People Interested in Dog Sweaters)/(People Interested in the GRE) = (Google Trends Relative Interest ("dog sweaters"))/(Google Trends Relative Interest ("GRE"))  
 
