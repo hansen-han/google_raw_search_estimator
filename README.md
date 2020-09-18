@@ -12,8 +12,8 @@ Google Trends Relative Interest ("GRE") = 75
 Google Trends Relative Interest ("dog sweaters") =  3
 
 (People Interested in Dog Sweaters)/(People Interested in the GRE) = (Google Trends Relative Interest ("dog sweaters"))/(Google Trends Relative Interest ("GRE"))
-People Interested in Dog Sweaters = ((3)/(75))*547,677
-People Interested in Dog Sweaters = 21,907.08
+People Interested in Dog Sweaters = (3/75) * 547,677
+People Interested in Dog Sweaters = 21,907.08 people
 
 Expanding this idea to a combination of other standardized tests (GMAT, GRE, LSAT, MCAT, SAT) and the number of people who are known to take them annually, I made an easy python tool to estimate population sizes for certain keyword searches. 
 
